@@ -2,7 +2,6 @@ from setuptools import setup
 
 setup(name="pidme",
     version="1.0",
-    packages = ["pidme"],
     author="Chuck Collins",
     author_email="chuck.collins@gmail.com",
     license = "MIT",
